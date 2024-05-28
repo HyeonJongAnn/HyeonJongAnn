@@ -4,5 +4,9 @@
 
 ## 💻 STACK 
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+<br>
 ![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white)
+
