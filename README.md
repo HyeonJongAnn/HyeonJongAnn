@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
 ![](https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=AmazonS3&logoColor=white)
 ![](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white)
+![](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white)
 <br>
 ### 📌FrontEnd
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
